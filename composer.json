@@ -1,0 +1,15 @@
+{
+  "name": "WebDream",
+  "description": "Depot app",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Eros Akos",
+      "email": "erosakos02@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {"": "../"}
+}
+}
